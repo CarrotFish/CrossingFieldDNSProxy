@@ -13,7 +13,7 @@ except:
     import func_timeout
 
 ip = '0.0.0.0'
-port = 19132
+port = 6001
 
 remote_ip = '114.114.114.114'
 remote_port = 53
